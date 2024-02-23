@@ -1,0 +1,5 @@
+## Assignment 2-1
+##### In this assignment we have a function that calcultates the percentage of males and females in a classrook from user input. We first defined maleS and femaleS as user inputed integers. We then added both variables to create the sum of the class. We then divided both variables by the sum and multiplied it by 100 to give us a percentage. Then the percentaged was assigned to m_perc and f_perc for their repsective individual inputs and used the float function to deal with decimals. The m_perc and f_perc variables were then called in a print function to show the percentage of males and females.
+
+### Erros and Lessons
+##### As far as errors, i learned that using the round function was better suited since it rounded the percentage to a whole number. I did learn a lesson to remember to multiply by 100 to calculate the percentage properly. Overall this assignment taught me how to use the float, and integer functions for their uses.
